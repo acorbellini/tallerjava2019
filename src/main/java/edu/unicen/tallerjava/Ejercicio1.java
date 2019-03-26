@@ -6,6 +6,7 @@ import java.util.Map;
 public class Ejercicio1 {
 
     public String getData() {
+        System.out.println("Hola Mundo!");
         String data = "--";
         Map<String, String> dataMap = new HashMap<>();
         processData(data, dataMap);
