@@ -27,3 +27,5 @@ El ejercicio tiene 2 errores: No funciona y es ineficiente para árboles grandes
  El ejercicio crea 50k+1 hijos de un objeto padre y luego crea un nuevo padre sobrescribiendo la variable que referencia al padre anterior. A dicho nuevo padre le asigna 50k nuevos hijos.
 La ejecución termina con 100001 hijos en lugar de 50001 hijos, es decir, 50k hijos de más.
 
+Autor: Alejandro Corbellini
+
