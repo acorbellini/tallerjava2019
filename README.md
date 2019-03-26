@@ -1,6 +1,6 @@
 # Ejercicio 1: Error de Java
 
-El ejercicio intenta imprimir por pantalla el string A -- B. A es el valor de data y B es el valor asociado a la clave test en el mapa.
+El ejercicio intenta imprimir por pantalla el string "A B". A es el valor de data y B es el valor asociado a la clave test en el mapa.
 
 # Ejercicio 2: Error de Lógica y Eficiencia
 
