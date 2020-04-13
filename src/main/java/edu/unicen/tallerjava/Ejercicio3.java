@@ -22,6 +22,7 @@ public class Ejercicio3 {
         Parent parent;
         String name = "Luke";
     }
+
     // Tiene un memory leak!
     public static void main(String[] args) throws IOException {
         Parent p = new Parent();
