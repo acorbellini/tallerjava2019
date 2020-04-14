@@ -76,7 +76,7 @@ public class Ejercicio2 {
         return root;
     }
 
-    private static class Counter {
+    public static class Counter {
         int count = 0;
     }
 
